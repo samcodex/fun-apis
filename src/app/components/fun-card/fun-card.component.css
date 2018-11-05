@@ -1,0 +1,16 @@
+:host {
+  display: inline-block;
+  margin-bottom: 2px;
+}
+
+.fun-card {
+  max-width: 400px;
+}
+
+.fun-header-image {
+  background-size: cover;
+}
+
+.card-response {
+  word-break: break-all;
+}
